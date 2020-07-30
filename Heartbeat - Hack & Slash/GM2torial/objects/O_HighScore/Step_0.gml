@@ -1,0 +1,1 @@
+if(input.attack) room_goto(R_Graveyard);

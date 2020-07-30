@@ -1,0 +1,1 @@
+room_goto(R_Game_Over);
